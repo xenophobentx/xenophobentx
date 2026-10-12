@@ -1,13 +1,5 @@
-### Hi, I'm Kornél
+Hi, Kornél here. Used to be at Microsoft (iCSU CSA), these days mostly Power Platform, Copilot and SharePoint work.
 
-Ex-Microsoft (iCSU CSA). Day job: Power Platform, Copilot and SharePoint.
+Side project: recompiling old console games so they run natively on PC, Mac, Steam Deck and Android. You need your own copy of the game.
 
-In my spare time I build static-recompilation ports of old console games:
-the original code translated ahead of time into a native program for PC,
-Mac, Steam Deck and Android handhelds, instead of being emulated. You bring
-your own disc.
-
-If you'd like to chip in for the hours that go into these, there's
-[PayPal](https://www.paypal.com/paypalme/juvipaint) and
-[Revolut](https://revolut.me/kornlx10). Entirely voluntary; nothing is sold
-or unlocked by it.
+Want to buy me a coffee? [PayPal](https://www.paypal.com/paypalme/juvipaint) or [Revolut](https://revolut.me/kornlx10).
